@@ -244,17 +244,17 @@ function About() {
         {/* Image grid */}
         <div className="grid grid-cols-2 gap-4">
           <img
-            src="/images/acai-copo.png"
+            src="images/acai-copo.png"
             alt="Açaí no copo"
             className="rounded-2xl object-cover w-full h-48 md:h-56 shadow-md"
           />
           <img
-            src="/images/sorvete.png"
+            src="images/sorvete.png"
             alt="Sorvete"
             className="rounded-2xl object-cover w-full h-48 md:h-56 shadow-md mt-6"
           />
           <img
-            src="/images/vitamina.png"
+            src="images/vitamina.png"
             alt="Vitamina"
             className="rounded-2xl object-cover w-full h-48 md:h-56 shadow-md col-span-2"
           />

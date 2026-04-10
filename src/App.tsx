@@ -211,7 +211,7 @@ function Hero() {
             {/* Background blob */}
             <div className="absolute inset-0 bg-violet-100 rounded-full scale-110 opacity-50" />
             <img
-              src="/images/hero-bowl.png"
+              src="images/hero-bowl.png"
               alt="Açaí bowl"
               className="relative z-10 w-full h-full object-cover rounded-full shadow-xl"
             />
